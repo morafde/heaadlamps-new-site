@@ -51,9 +51,9 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     More speed. Less spend
-                  </div>
+                  </div> */}
                   <h3 className="h3 mb-3">IT Services</h3>
                   {/* <p className="text-xl text-gray-400 mb-4">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -125,9 +125,9 @@ export default function Zigzag() {
                 data-aos="fade-left"
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     More speed. Less spend
-                  </div>
+                  </div> */}
                   <h3 className="h3 mb-3">Security</h3>
 
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -206,9 +206,9 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     More speed. Less spend
-                  </div>
+                  </div> */}
                   <h3 className="h3 mb-3">Digital Transformation</h3>
 
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -276,9 +276,9 @@ export default function Zigzag() {
                 data-aos="fade-left"
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     More speed. Less spend
-                  </div>
+                  </div> */}
                   <h3 className="h3 mb-3">Talent Pipeline</h3>
 
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -333,9 +333,9 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     More speed. Less spend
-                  </div>
+                  </div> */}
                   <h3 className="h3 mb-3">Mobile and Web Development</h3>
 
                

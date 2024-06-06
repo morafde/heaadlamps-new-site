@@ -28,15 +28,15 @@ export default function Header() {
                   Sign in
                 </Link>
               </li> */}
-              <li>
+              {/* <li>
                 <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Sign up
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </nav>
 
-          <MobileMenu />
+          {/* <MobileMenu /> */}
 
         </div>
       </div>
