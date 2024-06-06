@@ -113,7 +113,7 @@ export default function Zigzag() {
               >
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
-                  src={FeatImage02}
+                  src={"/images/hero-image-03.jpg"}
                   width={540}
                   height={405}
                   alt="Features 02"
@@ -194,7 +194,7 @@ export default function Zigzag() {
               >
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
-                  src={FeatImage03}
+                  src={"/images/hero-image-02.jpg"}
                   width={540}
                   height={405}
                   alt="Features 03"
@@ -264,7 +264,7 @@ export default function Zigzag() {
               >
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
-                  src={FeatImage02}
+                  src={"/images/hero-image-04.jpg"}
                   width={540}
                   height={405}
                   alt="Features 02"
@@ -321,7 +321,7 @@ export default function Zigzag() {
               >
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
-                  src={FeatImage03}
+                  src={"/images/hero-image-05.jpg"}
                   width={540}
                   height={405}
                   alt="Features 03"
