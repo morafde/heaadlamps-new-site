@@ -141,7 +141,7 @@ export default function Footer() {
 
             {/* Copyrights note */}
             <div className="text-gray-400 text-sm mr-4">
-              &copy; Headlamps 2024. All rights reserved.
+              &copy; Hedlamps 2024. All rights reserved.
             </div>
           </div>
         </div>
