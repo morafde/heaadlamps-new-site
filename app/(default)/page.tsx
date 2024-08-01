@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Home ',
-  description: 'Headlamps Consulting Services',
+  description: 'Hedlamps Consulting Services',
 }
 
 import Hero from '@/components/hero'
