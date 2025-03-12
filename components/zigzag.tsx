@@ -176,8 +176,8 @@ export default function Zigzag() {
                   </ul>
                   <p className=" text-gray-400 mt-4">
                     Hedlamps Consulting Services conducts thorough security
-                    assessments, performs VAPT to uncover and mitigate threats,
-                    designs robust security architectures, and ensures
+                    assessments, VAPT (Vulnerability Assessments and Penetration Testing) to uncover and mitigate threats,
+                    designs robust security architecture, and ensures
                     compliance with industry standards and regulations like NIST
                     and CIS Benchmarks.
                   </p>
@@ -245,7 +245,7 @@ export default function Zigzag() {
                   </ul>
                   <p className=" text-gray-400 mt-4">
                     Hedlamps Consulting Services streamlines business operations
-                    with cutting-edge automation solutions, seamlessly
+                    with cutting-edge AI-driven automation solutions, seamlessly
                     transitions data, applications, and infrastructure to the
                     cloud for scalability and cost-efficiency, and modernizes
                     legacy systems with advanced migration strategies to improve
