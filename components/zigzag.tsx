@@ -128,7 +128,7 @@ export default function Zigzag() {
                   {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     More speed. Less spend
                   </div> */}
-                  <h3 className="h3 mb-3">Security</h3>
+                  <h3 className="h3 mb-3">Security Assessment & Compliance Solutions</h3>
 
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -161,7 +161,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Security Architecture</span>
+                      <span>Security Architecture & Strategy</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -171,15 +171,15 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Compliance and Governance:</span>
+                      <span>Compliance & Governance:</span>
                     </li>
                   </ul>
                   <p className=" text-gray-400 mt-4">
-                    Hedlamps Consulting Services conducts thorough AI-powered security
-                    assessments and remediation, VAPT (Vulnerability Assessments and Penetration Testing) to uncover and mitigate threats,
-                    designs robust security architecture, and ensures
-                    compliance with industry standards and regulations like NIST, CMM,
-                    and CIS Benchmarks.
+                    Hedlamps Consulting Services delivers AI-powered security assessments and automated remediation to proactively identify, mitigate, and prevent cyber threats. Our expertise includes:
+                    Vulnerability Assessment & Penetration Testing (VAPT) – Simulated attacks to expose and fix security weaknesses before they become threats.
+                    AI-Driven Security Remediation – Intelligent automation to resolve misconfigurations and enhance security posture.
+                    Robust Security Architecture – Designing scalable, multi-layered security frameworks tailored for enterprises and defense organizations.
+                    Compliance & Governance – Ensuring adherence to NIST, CMMC, CIS Benchmarks, and other industry-leading regulations through automated security audits and enforcement. Strengthen your security. Automate compliance. Stay ahead of threats.
                   </p>
                 </div>
               </div>
