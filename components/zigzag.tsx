@@ -175,10 +175,10 @@ export default function Zigzag() {
                     </li>
                   </ul>
                   <p className=" text-gray-400 mt-4">
-                    Hedlamps Consulting Services conducts thorough security
-                    assessments, VAPT (Vulnerability Assessments and Penetration Testing) to uncover and mitigate threats,
+                    Hedlamps Consulting Services conducts thorough AI-powered security
+                    assessments and remediation, VAPT (Vulnerability Assessments and Penetration Testing) to uncover and mitigate threats,
                     designs robust security architecture, and ensures
-                    compliance with industry standards and regulations like NIST
+                    compliance with industry standards and regulations like NIST, CMM,
                     and CIS Benchmarks.
                   </p>
                 </div>
