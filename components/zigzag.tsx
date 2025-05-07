@@ -79,7 +79,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Cloud and On-Premise Support</span>
+                      <span>Internal AI Solutions fro SMEs</span>
                     </li>
                     {/* <li className="flex items-center">
                       <svg
@@ -93,12 +93,16 @@ export default function Zigzag() {
                     </li> */}
                   </ul>
                   <p className=" text-gray-400 mt-4">
-                    Hedlamps Consulting Services expertly designs and deploys IT
-                    solutions that align with business objectives and seamlessly
-                    integrate with existing infrastructure, while providing
-                    comprehensive support for both cloud-based and on-premise
-                    systems to ensure optimal performance, security, and
-                    reliability.
+                    Private, secure AI tools tailored to your team
+                    We design and deploy internal AI systems that boost productivity while keeping your data private. From knowledge assistants to HR and IT bots, we help SMEs build secure, custom AI tools using open-source models—deployed on your infrastructure and aligned with your workflows.
+
+                    What we deliver:
+                    Strategy and use case mapping
+                    Custom AI development (chatbots, copilots, review tools)
+                    Private, compliant deployments
+                    Ongoing support and optimisation
+
+                    Ideal for teams that want the power of AI—without sending data to public platforms.
                   </p>
                 </div>
               </div>
