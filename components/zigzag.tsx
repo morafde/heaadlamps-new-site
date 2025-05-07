@@ -92,18 +92,16 @@ export default function Zigzag() {
                       <span>Amet consectetur adipiscing elit</span>
                     </li> */}
                   </ul>
-                  <p className=" text-gray-400 mt-4">
-                    
-                    We design and deploy internal AI systems that boost productivity while keeping your data private. From knowledge assistants to HR and IT bots, we help SMEs build secure, custom AI tools using open-source models—deployed on your infrastructure and aligned with your workflows.
-
-                    What we deliver:
-                    Strategy and use case mapping
-                    Custom AI development (chatbots, copilots, review tools)
-                    Private, compliant deployments
-                    Ongoing support and optimisation
-
-                    Ideal for teams that want the power of AI—without sending data to public platforms.
+                  <p className="text-gray-400 mt-4">
+                    We help SMEs deploy secure, private AI tools tailored to internal workflows—without relying on public platforms. From custom chatbots to internal knowledge assistants and IT/HR bots, we design and deploy AI solutions using trusted open-source models.
+                    <br /><br />
+                    <strong>What we deliver:</strong><br />
+                    • Strategy and use case mapping<br />
+                    • Custom AI development (chatbots, copilots, compliance tools)<br />
+                    • Private, compliant deployments<br />
+                    • Ongoing support and optimisation
                   </p>
+
                 </div>
               </div>
             </div>
