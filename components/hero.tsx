@@ -4,9 +4,7 @@ export default function Hero() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
-        {/* Hero content */}
         <div className="relative pt-32 pb-10 md:pt-40 md:pb-16">
-          {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">
               Hedlamps Consulting Services
@@ -38,9 +36,8 @@ export default function Hero() {
               </div>
             </div>
           </div>
-
           <Image
-            src={"/images/hero-image-01.jpg"}
+            src="/images/hero-image-01.jpg"
             alt="Hero image"
             width={1920}
             height={1080}
