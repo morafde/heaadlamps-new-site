@@ -3,22 +3,22 @@ export default function Features() {
     {
       title: "Deep Domain Expertise",
       description:
-        "Our team brings hands-on experience across enterprise IT delivery, cybersecurity, M&A technology programmes, and aviation systems — not generalist advice, but hard-won knowledge from live engagements.",
+        "Hands-on experience across enterprise IT delivery, cybersecurity, M&A programmes, and aviation systems. Not generalist advice — hard-won knowledge from live, complex engagements.",
     },
     {
       title: "Built for Emerging Markets",
       description:
-        "We understand the constraints of operating in Africa and high-growth markets — limited budgets, lean teams, and the need for technology that works reliably without enterprise-level overhead.",
+        "We understand the constraints of operating in Africa and high-growth markets. Our solutions are designed to work reliably within real budget and resource limitations — not around them.",
     },
     {
       title: "Outcomes Over Outputs",
       description:
-        "We measure success by what our clients can do after we leave — not the size of the deliverable. Every engagement is designed to leave the organisation more capable, not more dependent.",
+        "We measure success by what our clients can do after we leave. Every engagement is designed to build capability and independence — not create dependency on us.",
     },
     {
       title: "Long-Term Partnership",
       description:
-        "We don't disappear after go-live. Our clients come back because we stay engaged — providing ongoing support, honest feedback, and continuous improvement long after the initial delivery.",
+        "We stay engaged long after go-live. Honest feedback, continuous improvement, and reliable support — because the best client relationships are built over years, not projects.",
     },
   ];
 
@@ -49,6 +49,7 @@ export default function Features() {
                 className="relative flex flex-col items-center"
                 data-aos="fade-up"
                 data-aos-anchor="[data-aos-id-blocks]"
+                data-aos-delay={`${index * 100}`}
               >
                 <svg
                   className="w-16 h-16 mb-4"
