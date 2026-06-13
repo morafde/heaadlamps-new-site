@@ -15,7 +15,7 @@ export default function Zigzag() {
             <h1 className="h2 mb-4">About us</h1>
             <p className="text-xl text-gray-400">
               Hedlamps is an enterprise technology consultancy with a specialist
-              practice in aviation technology for African airlines. We combine
+              practice in aviation technology for airlines. We combine
               deep expertise in digital transformation, cybersecurity, and AI
               with purpose-built systems for startup and charter carriers —
               from PSS and DCS to HR portals and booking engines. We build
